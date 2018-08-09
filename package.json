@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "vue": "^2.5.16"
+  },
+  "devDependencies": {
+    "http-server": "^0.11.1"
   }
 }

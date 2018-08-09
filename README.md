@@ -3,8 +3,7 @@ Vue Hello World Demo
 
 ```
 npm install
-npm install -g http-server
-http-server .
+npx http-server . -o
 ```
 
-Then open <http://localhost:8080>
+It will open <http://localhost:8080> automatically.
